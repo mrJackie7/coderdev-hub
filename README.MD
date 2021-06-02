@@ -2,11 +2,11 @@
 
 02 Juni 2021
 
-> Social media untuk para developer
+> Sosial media untuk para developer
 
 ## Tentang Project ini
 
-Proyek ini adalah sebuah proyek pembelajaran mandiri yang dasarnya saya pelajari dari [tutorial ini](https://www.udemy.com/course/mern-stack-front-to-back/). Pada dasarnya, proyek ini adalah sebuah media sosial dikhususkan untuk developer, baik itu tingkat mahasiswa sampai para senior developer samapai manajer, Proyek ini bisa memposting ide, mengomentari postingan, dan membuat profil portfolio yang dilengkapi dengan list repositori dari GitHub dengan mencantumkan username dari GitHub. It's pretty simple and has a lot of improvements, jadi selain beberapa daftar future update list yang dicantumkan di README ini, silahkan cantumkan di tab issue atau edit saja README ini.
+Proyek ini adalah sebuah proyek pembelajaran mandiri yang dasarnya saya pelajari dari [tutorial ini](https://www.udemy.com/course/mern-stack-front-to-back/). Pada dasarnya, proyek ini adalah sebuah media sosial dikhususkan untuk developer, baik itu tingkat mahasiswa sampai para senior developer sampai manajer, Proyek ini bisa memposting ide, mengomentari postingan, dan membuat profil portfolio yang dilengkapi dengan list repositori dari GitHub dengan mencantumkan username dari GitHub. It's pretty simple and has a lot of improvements, jadi selain beberapa daftar future update list yang dicantumkan di README ini, silahkan cantumkan di tab issue atau edit saja README ini.
 
 Kalian bisa fork proyek ini, tapi untuk lebih jelasnya, kalian bisa pelajari dulu [tutorial ini](https://www.udemy.com/course/mern-stack-front-to-back/) dan/atau fork saja dari [mentornya langsung](https://github.com/bradtraversy/devconnector_2.0/tree/originalcoursecode).
 
@@ -22,6 +22,7 @@ Bahasa pemrograman: Javascript (MERN stack)
 - improving UI is needed
 - bisa ganti foto profil tanpa harus menggantinya di gravatar
 - bisa menjadi applikasi android/IoS
+- dan masih banyak lagi, please fill me some info, atau bisa dikembangkan sendiri
 
 ## Tentang Aplikasi
 
@@ -29,9 +30,14 @@ Bahasa pemrograman: Javascript (MERN stack)
 
 Joshua Christianto
 
+### Live App
+
+[Live Demo](https://stark-bayou-09054.herokuapp.com/)
+
 ### Version
 
 - V.1.0.0: Proyek ini diinisiasi ke GitHub!
+- V.1.0.1: The Beta version is Live!
 
 ### License
 
